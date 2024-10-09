@@ -23,7 +23,7 @@ simButton.addEventListener('click', () => {
   simButton.style.display = 'none';
   naoButton.style.display = 'none';
   animacaoDiv.style.display = 'block';
-  musica.play(); // Reproduz a música
+  musica.play(); 
 });
 
 document.addEventListener('mousemove', (e) => {
